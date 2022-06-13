@@ -12,6 +12,7 @@ seaborn = "*"
 ipykernel = "*"
 pyarrow = "*"
 xgboost = "*"
+lightgbm = "*"
 
 [dev-packages]
 
