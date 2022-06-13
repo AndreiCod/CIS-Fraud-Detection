@@ -13,6 +13,7 @@ ipykernel = "*"
 pyarrow = "*"
 xgboost = "*"
 lightgbm = "*"
+joblib = "*"
 
 [dev-packages]
 

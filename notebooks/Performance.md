@@ -13,3 +13,4 @@
 | | | | | |
 | XGBoost | All of the above | 0.9256334068618853 | 2m 49.9s | 1 |
 | LightGBM | All of the above | 0.9166839833628754 | 56.5s | 1 |
+| LightGBM | Nothing new | 0.9079983643508267 | 49.9s | 10 |
